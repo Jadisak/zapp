@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esan on Zapp-Esan Restaurant</title>
+    <link>https://zappesan.netlify.app/categories/esan/</link>
+    <description>Recent content in Esan on Zapp-Esan Restaurant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Dec 2023 18:18:45 +0700</lastBuildDate>
+    <atom:link href="https://zappesan.netlify.app/categories/esan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ลาบแซบอีสาน</title>
+      <link>https://zappesan.netlify.app/larbmoo/</link>
+      <pubDate>Tue, 05 Dec 2023 18:18:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/larbmoo/</guid>
+      <description>Thai Foods You Have to Try in Bangkok. What Is Larb, The Unsung Hero Of Thailand’s Isan Cuisine? Let’s delve into the wonders of Northeast Thailand, or Isan, cuisine, featuring the spicy flavours at the heart and soul of Northeastern Thai communities.
+A delicious dish that is woven into Southeast Asian cultures Larb is actually a common dish that can be found across Southeast Asia. Along with the Thai/Isan version, larb dishes are served in Northern Thailand, Myanmar’s Shan State, Laos, and Xishuangbanna in China’s Yunnan Province.</description>
+    </item>
+  </channel>
+</rss>

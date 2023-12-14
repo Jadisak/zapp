@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Zapp-Esan Restaurant</title>
+    <link>https://zappesan.netlify.app/categories/</link>
+    <description>Recent content in Categories on Zapp-Esan Restaurant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Dec 2023 19:09:45 +0700</lastBuildDate>
+    <atom:link href="https://zappesan.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>American</title>
+      <link>https://zappesan.netlify.app/categories/american/</link>
+      <pubDate>Wed, 06 Dec 2023 19:09:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/american/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italian</title>
+      <link>https://zappesan.netlify.app/categories/italian/</link>
+      <pubDate>Wed, 06 Dec 2023 19:09:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/italian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spain</title>
+      <link>https://zappesan.netlify.app/categories/spain/</link>
+      <pubDate>Wed, 06 Dec 2023 19:09:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/spain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thailand</title>
+      <link>https://zappesan.netlify.app/categories/thailand/</link>
+      <pubDate>Wed, 06 Dec 2023 19:09:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/thailand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beef</title>
+      <link>https://zappesan.netlify.app/categories/beef/</link>
+      <pubDate>Wed, 06 Dec 2023 13:09:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/beef/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chicken</title>
+      <link>https://zappesan.netlify.app/categories/chicken/</link>
+      <pubDate>Wed, 06 Dec 2023 13:09:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/chicken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pork</title>
+      <link>https://zappesan.netlify.app/categories/pork/</link>
+      <pubDate>Wed, 06 Dec 2023 13:09:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/pork/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ตำคอหมูย่าง</title>
+      <link>https://zappesan.netlify.app/categories/%E0%B8%95%E0%B8%B3%E0%B8%84%E0%B8%AD%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87/</link>
+      <pubDate>Wed, 06 Dec 2023 10:09:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/%E0%B8%95%E0%B8%B3%E0%B8%84%E0%B8%AD%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ตําทะเล</title>
+      <link>https://zappesan.netlify.app/categories/%E0%B8%95%E0%B9%8D%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5/</link>
+      <pubDate>Wed, 06 Dec 2023 10:09:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/%E0%B8%95%E0%B9%8D%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ตำปู-ปลาร้า</title>
+      <link>https://zappesan.netlify.app/categories/%E0%B8%95%E0%B8%B3%E0%B8%9B%E0%B8%B9-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%89%E0%B8%B2/</link>
+      <pubDate>Wed, 06 Dec 2023 10:09:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/%E0%B8%95%E0%B8%B3%E0%B8%9B%E0%B8%B9-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B9%89%E0%B8%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Esan</title>
+      <link>https://zappesan.netlify.app/categories/esan/</link>
+      <pubDate>Tue, 05 Dec 2023 18:18:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/esan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Isaan</title>
+      <link>https://zappesan.netlify.app/categories/isaan/</link>
+      <pubDate>Tue, 05 Dec 2023 18:18:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/isaan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thai Food</title>
+      <link>https://zappesan.netlify.app/categories/thai-food/</link>
+      <pubDate>Tue, 05 Dec 2023 18:18:45 +0700</pubDate>
+      <guid>https://zappesan.netlify.app/categories/thai-food/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
